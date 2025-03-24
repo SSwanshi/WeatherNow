@@ -5,11 +5,10 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "next build" 
+    "start": "node index.js"
   },
   "keywords": [
-    "\"NIL\""
+    "weather"
   ],
   "author": "Sarvjeet",
   "license": "ISC",
